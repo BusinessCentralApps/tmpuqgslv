@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/f5ea2184671601d348ea1d318c2198cb20f398c7/.Modules/settings.schema.json",
   "githubRunnerShell": "powershell",
   "useCompilerFolder": true,
   "useApproximateVersion": true,
@@ -22,7 +23,7 @@
     "onPush": true
   },
   "templateUrl": "https://github.com/businesscentralapps/tmpqsequq-PTE@main",
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/f5ea2184671601d348ea1d318c2198cb20f398c7/.Modules/settings.schema.json",
   "githubRunner": "windows-latest",
-  "type": "PTE"
+  "type": "PTE",
+  "templateSha": "b5f4044dc3e55d8c7559625c1ca812696e1d89f2"
 }
